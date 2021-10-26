@@ -1,0 +1,8 @@
+ivanov;Ivan Ivanov;Hello World
+петров;Петр Петров;Hello World
+obama;Barack Obama;Hello World
+bush;Джордж Буш;Hello World
+123@lalal
+@lgf;k
+@@@
+Hello World.
